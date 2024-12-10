@@ -80,7 +80,7 @@
         </div>
         <div class="content">
             <h2>Портфолио</h2>
-            <a href="https://https://daurenkyzysaa.wixsite.com/my-site-4 class="link" target="_blank">Менің портфолиом</a>
+            <a href="https://daurenkyzysaa.wixsite.com/my-site-4" class="link" target="_blank">Менің портфолиом</a>
         </div>
     </div>
 </body>
